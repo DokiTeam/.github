@@ -6,8 +6,6 @@
 
 # [Doki](#) Team
 
-[![Discord server](https://img.shields.io/discord/1435615296202477581.svg?label=&labelColor=6A7EC2&color=7389D8&logo=discord&logoColor=FFFFFF)](https://discord.gg/PTd2bYgz9m)
-
 </div>
 
 ### What the hell is Doki?
