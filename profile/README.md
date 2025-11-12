@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://mihon.app">
+<a href="#">
     <img src="./Doki.png" alt="Doki logo" title="Doki logo" width=30%/>
 </a>
 
