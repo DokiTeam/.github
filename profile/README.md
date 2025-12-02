@@ -30,3 +30,7 @@ With **Doki**, we want to prioritize bringing a convenient, fast and smooth expe
   </picture>
 </a>
 </div>
+
+### Hold on! Where's Doki?
+
+Well, we have officially moved to 夢見 [Project], you can find us [here](https://github.com/YumemiProject) (for source code). Thanks to [Jerry](https://github.com/JeremyChoco) for continuing to develop 夢見 [Project] (based on Doki source code). Also thanks to the [Yaka Team](https://github.com/YakaTeam/) for helping us release that app (created, developed by Koma~~ - Sorry, we have to censor that real name), and [Draken](https://github.com/dragonx943) for creating Doki application.
